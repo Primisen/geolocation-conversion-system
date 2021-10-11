@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Cache ###
+/http-cache/
+
+### File with key for using Google geocoder ###
+security.properties
