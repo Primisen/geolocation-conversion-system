@@ -1,4 +1,4 @@
-package com.primisen.test_task.geolocationconversionsystem.model;
+package com.primisen.test_task.geolocation_conversion_system.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

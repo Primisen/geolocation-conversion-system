@@ -1,7 +1,7 @@
-package com.primisen.test_task.geolocationconversionsystem.controller;
+package com.primisen.test_task.geolocation_conversion_system.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.primisen.test_task.geolocationconversionsystem.model.GeocodeResult;
+import com.primisen.test_task.geolocation_conversion_system.model.GeocodeResult;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.ResponseBody;
@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
 @RestController
