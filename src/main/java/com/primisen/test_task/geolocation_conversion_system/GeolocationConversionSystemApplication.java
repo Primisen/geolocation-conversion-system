@@ -1,4 +1,4 @@
-package com.primisen.test_task.geolocationconversionsystem;
+package com.primisen.test_task.geolocation_conversion_system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
