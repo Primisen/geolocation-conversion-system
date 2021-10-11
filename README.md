@@ -1,5 +1,5 @@
  # geolocation-conversion-system
-The application converts geographic coordinates to address and address to geographic coordinates using Google Geocoding API.
+Приложение преобразует географические координаты в адрес и адрес в географические координаты с помощью Google Geocoding API.
 
  ### ***Как это работает:*** 
 Адресс (или координаты) прописываются в адресной строке. 
